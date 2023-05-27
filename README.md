@@ -15,3 +15,6 @@ Inside your local Git repository, create a directory for this assignment. Use a 
 Inside the folder you just created, add the files called api_keys.py, WeatherPy.ipynb, and VacationPy.ipynb that you will find in the starter code ZIP file provided. These will be the main scripts to run for each analysis.
 
 Before you push your changes to GitHub, add a .gitignore file.
+
+![download](https://github.com/Cheryl277/python-api-challenge/assets/120348065/446269ea-14fb-40a5-8c5b-16c9fb81d6b9)
+
